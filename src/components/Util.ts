@@ -1,0 +1,1 @@
+export type userObjType = {name:string, email:string};

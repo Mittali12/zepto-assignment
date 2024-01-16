@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbarhidden::-webkit-scrollbar {
+  width: 5px;
+  background: #f1f1f1;
+}
